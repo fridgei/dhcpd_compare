@@ -1,4 +1,9 @@
 dhcpd_compare
 =============
 
-Parse for comparing dhcpd.conf files 
+Requires:
+
+parsley 1.5
+ipaddr
+
+
